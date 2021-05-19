@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap":[
+            "classes/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "name": "juliocsrf/php-unit-example",
+    "description": ""
+}
